@@ -1,4 +1,5 @@
 Manual
+
 Nuestro proyecto se basa en realizar una historia de audio inmersivo en la
 que tratamos de hacer una recreación del origen y evolución de la tierra.
 Para ello decidimos dividir nuestro proyecto en tres mundos diferentes y
@@ -67,6 +68,7 @@ producido por unas escaleras del metro de Madrid con un fallo mecánico,
 esto lo escuchamos al pasar del Origen al Edén, del Edén al Ser Humano y
 cuando tras la bomba se comienza a escuchar algo.
 Eco del Origen
+
 En un principio, el universo era un enorme lienzo de silencio absoluto. No
 había sonido, solo una quietud infinita que reinaba en el vacío. Pero
 entonces, en la oscuridad primordial, el agua surgió como el primer susurro
